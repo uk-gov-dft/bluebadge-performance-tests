@@ -1,2 +1,5 @@
 *.swp
 output/
+*.log
+test-output
+*.jtl
